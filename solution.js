@@ -1,4 +1,8 @@
+//CSV PATH
+
 const csvPath='volunteer_attendance_data.csv'
+//
+
 const fs = require('fs')
 const csv = require('csvtojson')
 //import graph custom datastructure
@@ -56,8 +60,8 @@ async function main(path){
 
 
 
-    // console.log("?????FINAL OUTPUT????")  
-    // console.log(output)
+    console.log("?????FINAL OUTPUT????")  
+    console.log(output)
     
     
 }
@@ -72,7 +76,7 @@ async function getOutput(Gedges , Gweights){
         "Node 2":[],
         "Weight ":[],
     }
-    console.log(Gweights)
+    
     for(let v1 in Gedges){
         let line = ""
         if(v1 != null){            

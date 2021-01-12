@@ -1,15 +1,14 @@
 Node 1,Node 2,Weight
-Bobita,Kabori,2
-Bobita,Rajjak,1
-Rajjak,Ilias,1
 Rajjak,Bobita,1
+Bobita,Kabori,2
 Rajjak,Kabori,1
-Kabori,Shabana,2
 Kabori,Bobita,2
-Kabori,Ilias,1
+Rajjak,Ilias,1
 Kabori,Rajjak,1
-Shabana,Ilias,2
+Kabori,Shabana,2
+Kabori,Ilias,1
 Shabana,Kabori,2
 Ilias,Rajjak,1
-Ilias,Kabori,1
+Shabana,Ilias,2
 Ilias,Shabana,2
+Ilias,Kabori,1
