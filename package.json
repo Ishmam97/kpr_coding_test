@@ -1,0 +1,14 @@
+{
+  "name": "kpr_codingtest",
+  "version": "1.0.0",
+  "description": "Coding test from kaan pete rakho",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishmam Ahmed Solaiman",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
